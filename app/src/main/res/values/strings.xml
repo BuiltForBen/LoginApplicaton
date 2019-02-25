@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login Applicaton</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_reg">Not Registered?</string>
+
+    <string name="etRegname">Name</string>
+    <string name="etRegEmail">E-mail</string>
+    <string name="etRegPassword1">Password</string>
+    <string name="etRegPassword2">Confirm Password</string>
+    <string name="etReg">SIGN UP</string>
+</resources>
